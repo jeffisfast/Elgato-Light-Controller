@@ -26,19 +26,19 @@ Usage is as follows:
 CLI control of an Elgato light
 
 optional arguments:
-  -h, --help            show this help message and exit
-  -on, --On             Turn light on
-  -off, --Off           Turn light off
-  -brighter, --Brighter
-                        Turn light on and make it brighter
-  -dimmer, --Dimmer     Turn light on and make it dimmer
-  -warmer, --Warmer     Turn light on and make it warmer
-  -cooler, --Cooler     Turn light on and make it cooler
-  -address ADDRESS, --Address ADDRESS
-                        Specify the light's IP address
-  -port PORT, --Port PORT
-                        Specify the light's API port
-  -default, --Default   Set light to my default color and temperature
+-h, --help            show this help message and exit
+-on, --On             Turn light on
+-off, --Off           Turn light off
+-brighter, --Brighter
+                      Turn light on and make it brighter
+-dimmer, --Dimmer     Turn light on and make it dimmer
+-warmer, --Warmer     Turn light on and make it warmer
+-cooler, --Cooler     Turn light on and make it cooler
+-address ADDRESS, --Address ADDRESS
+                      Specify the light's IP address
+-port PORT, --Port PORT
+                      Specify the light's API port
+-default, --Default   Set light to my default color and temperature
 
 
 With no arguments the program will just toggle the state of the light.`
