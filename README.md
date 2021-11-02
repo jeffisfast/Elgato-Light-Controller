@@ -1,6 +1,8 @@
 Elgato Light Controller
 =======================
 
+(This is a python program to control Elgato Key Lights.  If you want something with a gui please see [Doodle\'s Elgato Light Control Center](https://github.com/jeffisfast/doodle-elgato-light-controller)) for an Electron app).
+
 I'm really happy with my Elgato Key Light from an illumination perspective.  However, their control software has been glitchy for me.  When I first used the light the software worked most of the time, but over time it started having problems by only detecting the light intermittently.  
 
 After internet searching I found:
